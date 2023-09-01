@@ -17,4 +17,4 @@ if __name__ == "__main__":
         program(user_input)
         sites(user_input)
         wind(user_input)
-        per_res(user_input)
+        per_res(user_input)  # oi
